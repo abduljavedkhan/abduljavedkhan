@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Javed](https://shivammakwan.com/) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">
+## Hi there 👋, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 Software Developer from India.
