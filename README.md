@@ -16,7 +16,7 @@
 </p>
 
 
-## 🙋‍♂️ Connect with me:
+### 🙋‍♂️ Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-abduljaved314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduljaved314@gmail.com)](mailto:abduljaved314@gmail.com)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-@abduljavedkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)](https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)
@@ -27,7 +27,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/abduljavedkhan?label=Follow&style=social)
 
 
-## 📖 About me
+### 📖 About me
 
 - 🔭 &nbsp;I’m currently working on React-Native.
 
@@ -37,21 +37,30 @@
 
 - ⚡ &nbsp;Fun fact: I am always open to learn new technologies and contribute.
 
+### 🛠 &nbsp;Tech Stack
 
-## 🧰 Languages and Tools:
-<p align="left">
-    
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abduljavedkhan&show_icons=true&theme=radical" alt="abduljavedkhan" /> 
 </p> 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduljavedkhan&theme=radical" />
 </p>
+
+
 <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while WORKING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 <!--
