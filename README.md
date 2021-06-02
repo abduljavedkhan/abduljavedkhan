@@ -5,7 +5,7 @@
 <hr>
 <p align="left">
   <em>
-      This is ME, <b>Abdul Javed Khan</b>, a <b>Software Developer</b> from India,<br>who is <b>obsessed</b>
+      This is ME, <b>Abdul Javed Khan</b>, a <b>Software Developer</b> from India having 3+ years of experience in IT industry,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.<br>
