@@ -31,7 +31,7 @@
 
 - 🔭 &nbsp;I’m currently working on React-Native.
 
-- 🌱 &nbsp;I’m currently learning Next.js, GraphQL API.
+- 🌱 &nbsp;I’m currently learning GraphQL API.
 
 - 🤔 &nbsp;I’m looking for help with getting a remote job
 
