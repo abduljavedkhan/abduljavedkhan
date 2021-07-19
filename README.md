@@ -8,8 +8,8 @@
       This is ME, <b>Abdul Javed Khan</b>, a <b>Software Developer</b> from India having 3+ years of experience in IT industry,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.<br>
-      Open to work for <b>Remote Opportunity.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"><br>
+      Looking for <b>Remote Opportunity.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
     </em> 
   <br>
 
@@ -31,7 +31,7 @@
 
 - 🔭 &nbsp;I’m currently working on React-Native.
 
-- 🌱 &nbsp;I’m currently learning GraphQL API.
+- 🌱 &nbsp;I’m currently learning TypeScript and GraphQL API.
 
 - 🤔 &nbsp;I’m looking for help with getting a remote job
 
