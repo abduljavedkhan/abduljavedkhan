@@ -29,9 +29,7 @@
 
 ### 📖 About me
 
-- 🔭 &nbsp;I’m currently working on React-Native.
-
-- 🌱 &nbsp;I’m currently learning TypeScript and GraphQL API.
+- 🔭 &nbsp;I’m currently working on React-Native and [TypeGraphQL](https://typegraphql.com/) for API building.
 
 - 🤔 &nbsp;I’m looking for help with getting a remote job
 
