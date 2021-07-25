@@ -30,6 +30,10 @@
 ### 📖 About me
 
 - 🔭 &nbsp;I’m currently working on React-Native and [TypeGraphQL](https://typegraphql.com/) for API building.
+ 
+- 🌱 I’m currently learning TypeScript and  [TypeGraphQL](https://typegraphql.com/)🤓
+
+- 👯 I’m looking to collaborate on Full stack Project
 
 - 🤔 &nbsp;I’m looking for help with getting a remote job
 
@@ -54,15 +58,22 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abduljavedkhan&show_icons=true&theme=radical" alt="abduljavedkhan" /> 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abduljavedkhan)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abduljavedkhan&show_icons=true)  
+
 </p> 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduljavedkhan&theme=radical" />
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abduljavedkhan)  
+
 
 <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while WORKING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
+
+
 <!--
 **abduljavedkhan/abduljavedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
