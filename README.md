@@ -31,11 +31,11 @@
 
 - 🔭 &nbsp;I’m currently working on React-Native and [TypeGraphQL](https://typegraphql.com/) for API building.
  
-- 🌱 I’m currently learning TypeScript and  [TypeGraphQL](https://typegraphql.com/)🤓
+- 🌱 I’m currently learning TypeScript and  [TypeGraphQL](https://typegraphql.com/)🤓.
 
-- 👯 I’m looking to collaborate on Full stack Project
+- 👯 I’m looking to collaborate on Full stack Project.
 
-- 🤔 &nbsp;I’m looking for help with getting a remote job
+- 🤔 &nbsp;I’m looking for help with getting a remote job.
 
 - ⚡ &nbsp;Fun fact: I am always open to learn new technologies and contribute.
 
