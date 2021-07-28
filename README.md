@@ -18,9 +18,9 @@
 
 ### 🙋‍♂️ Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-abduljaved314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduljaved314@gmail.com)](mailto:abduljaved314@gmail.com)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-@abduljavedkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)](https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)
-[![Twitter Badge](https://img.shields.io/badge/@abduljavedkhan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aspiringDev_ajk)](https://twitter.com/aspiringDev_ajk)
+[![Gmail Badge](https://img.shields.io/badge/abduljaved314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduljaved314@gmail.com)](mailto:abduljaved314@gmail.com)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/AbdulJavedKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)](https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)
+[![Twitter Badge](https://img.shields.io/badge/Javed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aspiringDev_ajk)](https://twitter.com/aspiringDev_ajk)
 
 ![](https://komarev.com/ghpvc/?username=abduljavedkhan)
 
