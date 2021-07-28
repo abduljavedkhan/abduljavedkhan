@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abduljavedkhan)
 
-![GitHub followers](https://img.shields.io/github/followers/abduljavedkhan?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/abduljavedkhan?label=Followers&style=social)
 
 
 ### 📖 About me
