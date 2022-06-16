@@ -1,11 +1,11 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">Currently [Active here](https://github.com/javedkhan-hotstar)
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-<h3 align="left">Software Developer | Technology Enthusiast</h3>
+<h3 align="left">Software Engineer | Technology Enthusiast</h3>
 <hr>
 <p align="left">
   <em>
-      This is ME, <b>Abdul Javed Khan</b>, a <b>Software Developer</b> from India having 3+ years of experience in IT industry,<br>who is <b>obsessed</b>
+      This is ME, <b>Abdul Javed Khan</b>, a <b>Software Engineer</b> from India having 4+ years of experience in IT industry,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"><br>
@@ -16,7 +16,7 @@
 </p>
 
 
-### 🙋‍♂️ Connect with me:
+### 🙋‍♂️ Connect with me: 
 
 [![Gmail Badge](https://img.shields.io/badge/abduljaved314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduljaved314@gmail.com)](mailto:abduljaved314@gmail.com)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/AbdulJavedKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)](https://www.linkedin.com/in/abdul-javed-khan-ba11b5104/)
@@ -28,6 +28,8 @@
 
 
 ### 📖 About me
+
+- Currently [Active here](https://github.com/javedkhan-hotstar).
 
 - 🔭 &nbsp;I’m currently working as Full Stack Developer.
  
