@@ -32,8 +32,6 @@
 - Currently [Active here](https://github.com/javedkhan-hotstar).
 
 - 🔭 &nbsp;I’m currently working as Full Stack Developer.
- 
-- 🌱 I’m currently learning TypeScript and  [TypeGraphQL](https://typegraphql.com/)🤓.
 
 - 👯 I’m looking to collaborate on Full stack Project.
 
