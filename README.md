@@ -37,6 +37,8 @@
 
 - ⚡ &nbsp;Fun fact: I am always open to learn new technologies and contribute.
 
+-  Currently learning [Rust](https://www.rust-lang.org/) programming
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
