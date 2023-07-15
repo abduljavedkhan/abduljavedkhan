@@ -31,13 +31,13 @@
 
 - Currently [Active here](https://github.com/javedkhan-hotstar).
 
-- 🔭 &nbsp;I’m currently working as Full Stack Developer.
+- 🔭 &nbsp; I’m currently working as Full Stack Developer.
 
-- 👯 I’m looking to collaborate on Full stack Project.
+- 👯 Happy to collaborate on a Full stack Project.
 
-- ⚡ &nbsp;Fun fact: I am always open to learn new technologies and contribute.
+- ⚡ &nbsp; Fun fact: I am always open to learning new technologies and contributing.
 
--  Currently learning [Rust](https://www.rust-lang.org/) programming
+-  learning [Rust](https://www.rust-lang.org/) programming 
 
 ### 🛠 &nbsp;Tech Stack
 
