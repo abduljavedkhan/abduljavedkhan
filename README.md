@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">Currently [Active here](https://github.com/javedkhan-hotstar)
+### Hi there, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">Currently [Active here](https://github.com/javedkhan-hotstar)
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
 <h3 align="left">Software Engineer | Technology Enthusiast</h3>
