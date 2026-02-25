@@ -1,7 +1,7 @@
 ### Hi there, I'm [Javed](https://github.com/abduljavedkhan/abduljavedkhan) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">Currently [Active here](https://github.com/javedkhan-hotstar)
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-<h3 align="left">Software Engineer | Technology Enthusiast</h3>
+<h3 align="left">Sr. Software Engineer | Technology Enthusiast</h3>
 <hr>
 <p align="left">
   <em>
@@ -37,7 +37,7 @@
 
 - ⚡ &nbsp; Fun fact: I am always open to learning new technologies and contributing.
 
--  learning [Rust](https://www.rust-lang.org/) programming 
+-  Building Desktop app using [Tauri](https://v2.tauri.app/) Framework for [Eminence Intellitech](https://eminenceintellitech.com) Client
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -58,33 +58,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abduljavedkhan)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abduljavedkhan&show_icons=true)  
-
-</p> 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduljavedkhan&theme=radical" />
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abduljavedkhan)  
-
-
 <p align="left">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while WORKING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
 
-
-<!--
-**abduljavedkhan/abduljavedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
