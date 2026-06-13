@@ -5,12 +5,8 @@
 <hr>
 <p align="left">
   <em>
-      This is ME, <b>Abdul Javed Khan</b>, a <b>Software Engineer</b> from India having 4+ years of experience in IT industry,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"><br>
-      Working <b>Remotely.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-    </em> 
+     I'm Javed — founder of Eminence Intellitech, building Eminency: India's first on-device AI accounting software for SMEs. Based in Dhamtari, Chhattisgarh. I work at the intersection of local AI, privacy-first software, and Bharat-focused products.
+Available for consulting on: Tauri desktop apps, local LLM integration, React/Node full-stack, privacy-sensitive AI systems.
   <br>
 
 </p>
