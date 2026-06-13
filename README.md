@@ -22,7 +22,6 @@
 
 - 💬 Ask in **Hindi or English** — *"Mahesh Traders ka kitna baaki hai"* → instant answer
 - 🔒 AI runs **100% locally** — financial data never leaves your machine
-- 💰 **₹1,999/year** vs Tally's ₹18,000+ — 89% cheaper
 - 🖥️ Built with **Tauri + Rust + SQLite + Local LLM**
 - 🏢 Serving Indian shops, traders & SMEs across Chhattisgarh
 
